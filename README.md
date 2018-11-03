@@ -1,2 +1,2 @@
-# weather-prediction-using-RNN
-A simple RNN used to predict the weather of next hour
+# weather-prediction-using-RNN(LSTM)
+A simple LSTM used to predict the weather of next hour
